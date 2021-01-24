@@ -1,0 +1,16 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "Just a project with JavaScript to understand the Data Structures behind of each programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Data",
+    "Structures"
+  ],
+  "author": "Juan Esteban Deossa Pertuz <jedp082@gmail.com>",
+  "license": "MIT"
+}
